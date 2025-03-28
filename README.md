@@ -124,7 +124,8 @@ conn.close()
 
 This documentation covers the process of cleaning data from various CSV files and pushing the cleaned data into a MySQL database. By following the steps outlined, you can efficiently manage and store your cleaned data for further analysis or querying within a SQL environment.
 
-![nexttt-1_page-0003](https://github.com/user-attachments/assets/833bf8ca-fa4d-4b9e-9515-5486074050c4)
+![Updated Dashboard](https://github.com/Malav1301/Amendment_Ansible_047/blob/main/Dashboard/Screenshot%202025-03-28%20095648.png)
+
 
 
 
